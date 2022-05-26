@@ -1,4 +1,4 @@
 # Hangman
 This Hangman game is a mini-game in Python, using the replit module and following the OOP paradigm. 
 
-<img src="https://filen.io/d/004162af-25f9-4222-97a0-8933b41b001e#!OQe81w5F16PFWR95dcYpjHXSq1YZEv2E" title="hangman_gif" width="500">
+<img src="blob:https://filen.io/4bc8ca9e-0212-4533-92ae-5d23e316b7c8" title="hangman_gif" width="500">
